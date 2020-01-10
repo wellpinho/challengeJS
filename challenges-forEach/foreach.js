@@ -30,13 +30,13 @@
 
 // what does forEach do?
 
-//hat method do we use to remove in the first position of the array?
+// What method do we use to remove in the first position of the array?
 
 // And the remove of the last position?
 
-//And add in first?
+// And add in first?
 
-// And add ins last?
+// And add in last?
 
 
 
